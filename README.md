@@ -3,7 +3,7 @@
 
 - 📫 How to reach me: terra.keerati@gmail.com
 
-- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/terra-keeratinavanant-44b934218/)
+- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/terra-keeratinavanant-44b934218/), [Tableau](https://public.tableau.com/app/profile/terra.keeratinavanant/vizzes), [Leetcode](https://www.leetcode.com/0pecaeei6z), [HackerRank](https://www.hackerrank.com/terra_keerati)
 
 
 ## Connect with me:
