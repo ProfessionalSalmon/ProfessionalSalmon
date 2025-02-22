@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Terra Keeratinavanant</h1>
-<h3 align="center">A Psychology student @ Chulalongkorn University & The University of Queensland</h3>
+<h1 align="center">Hi 👋, It's Terra Keeratinavanant</h1>
+<h4 align="center">A 4th year student @ Chulalongkorn University & The University of Queensland</h4>
+<h4>Go check out my data science and machine learning projects!</h4>
 
 - 📫 How to reach me: terra.keerati@gmail.com
 
