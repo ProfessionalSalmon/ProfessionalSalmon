@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, It's Terra</h1>
-<h4 align="center">Go check out my data science and machine learning projects!</h4>
+<h1 align="center">Hi 🧙, It's Terra</h1>
+<h4 align="center">Here lie my projects in machine learning, deep learning, and computer vision.</h4>
 
-- 📫 How to reach me: terra.keerati@gmail.com
-
-- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/terra-keeratinavanant-44b934218/), [Tableau](https://public.tableau.com/app/profile/terra.keeratinavanant/vizzes), [Leetcode](https://www.leetcode.com/0pecaeei6z), [HackerRank](https://www.hackerrank.com/terra_keerati)
+- 🧸 How to reach me: terra.keerati@gmail.com
+- 🧸 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/terra-keeratinavanant-44b934218/)
 
 
 ## Connect with me:
@@ -15,16 +14,17 @@
 </p>
 
 ## Languages and Tools:
-#### SQL
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite)](https://skillicons.dev)
 #### Python
-<a target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a> 
+<a target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/> </a> 
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" alt="spark" width="40" height="40"/> </a> 
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> 
+#### SQL
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite)](https://skillicons.dev)
 #### Accessories
 [![My Skills](https://skillicons.dev/icons?i=r,vscode,git,github,latex,md,notion&perline=20)](https://skillicons.dev)
